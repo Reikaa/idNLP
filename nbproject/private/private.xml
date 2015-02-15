@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Java%20Workspace/idNLP/src/com/github/fawwaz/idnlp/tools/stemmer/Stemmer.java</file>
+            <file>file:/E:/Java%20Workspace/idNLP/src/com/github/fawwaz/idnlp/tools/sentencesplitter/EosAnalyzer/AnalyzerInterface.java</file>
+            <file>file:/E:/Java%20Workspace/idNLP/src/com/github/fawwaz/idnlp/tools/sentencesplitter/EosAnalyzer/AnalyzerLeadingEos.java</file>
+            <file>file:/E:/Java%20Workspace/idNLP/src/com/github/fawwaz/idnlp/tools/sentencesplitter/EosAnalyzer/Model.java</file>
+            <file>file:/E:/Java%20Workspace/idNLP/src/com/github/fawwaz/idnlp/tools/sentencesplitter/EosAnalyzer/AnalyzerRepetitiveEos.java</file>
+            <file>file:/E:/Java%20Workspace/idNLP/src/com/github/fawwaz/idnlp/tools/sentencesplitter/EndOfSentenceScanner.java</file>
+            <file>file:/E:/Java%20Workspace/idNLP/src/com/github/fawwaz/idnlp/tools/sentencesplitter/FuzzyEndOfSentenceScanner.java</file>
+        </group>
+    </open-files>
+</project-private>
